@@ -4,6 +4,8 @@ content:
     label: Funny
     type: collection
     path: content/funny
+    view: 
+      fields: [ title, date ]
     fields:
       - { name: title, label: title, type: string }
       - { name: date, label: Publish Date, type: date }
@@ -14,6 +16,8 @@ content:
     label: News
     type: collection
     path: content/news
+    view: 
+      fields: [ title, date ]
     fields:
       - { name: title, label: title, type: string }
       - { name: date, label: Publish Date, type: date }
