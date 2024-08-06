@@ -1,1 +1,12 @@
 media: public
+content:
+  - name: funny
+    label: funny
+    type: collection
+    path: content/funny
+    fields:
+      - { name: title, label: title, type: string }
+      - { name: date, label: Publish Date, type: date }
+      - { name: body, label: Body, type: text }
+      - { name: img1, label: Image, type: image }
+      - { name: img2, label: Image, type: image }
