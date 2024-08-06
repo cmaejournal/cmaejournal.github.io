@@ -1,0 +1,47 @@
+backend:
+  name: git-gateway
+  branch: main # Branch to update (optional; defaults to master)
+  
+media_folder: "public/uploads" # Where media files will be stored
+public_folder: "/uploads" # Where the media files can be accesed from the server
+publish_mode: editorial_workflow # For Drafts
+
+collections:
+  # - name: "blog" # Used in routes, e.g., /admin/collections/blog
+  #   label: "Blog" # Used in the UI
+  #   folder: "content/posts" # The path to the folder where the documents are stored
+  #   create: true # Allow users to create new documents in this collection
+  #   slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+  #   fields: # The fields for each document, usually in front matter
+  #     - {label: "Title", name: "title", widget: "string"}
+  #     - {label: "Publish Date", name: "date", widget: "datetime", date_format: "DD.MM.YYYY", time_format: "HH:mm", format: "LLL"}
+  #     - {label: "Body", name: "body", widget: "markdown"}
+  - name: "funny" # Used in routes, e.g., /admin/collections/blog
+    label: "Funny" # Used in the UI
+    folder: "content/funny" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime", date_format: "DD.MM.YYYY", time_format: "HH:mm", format: "LLL"}
+      - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Image", name: "img1", widget: "image"}
+      - {label: "Image", name: "img2", widget: "image"}
+  - name: "news" # Used in routes, e.g., /admin/collections/blog
+    label: "News" # Used in the UI
+    folder: "content/news" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime", date_format: "DD.MM.YYYY", time_format: "HH:mm", format: "LLL"}
+      - {label: "Body", name: "news1", widget: "markdown"}
+      - {label: "Image", name: "img1", widget: "image"}
+      - {label: "Image", name: "img2", widget: "image"}
+      - {label: "Body", name: "news2", widget: "markdown"}
+      - {label: "Body", name: "news3", widget: "markdown"}
+      - {label: "Image", name: "img3", widget: "image"}
+      - {label: "Image", name: "img4", widget: "image"}
+      - {label: "Body", name: "news4", widget: "markdown"}
+      - {label: "Body", name: "news5", widget: "markdown"}
+      - {label: "Image", name: "img5", widget: "image"}

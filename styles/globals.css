@@ -1,0 +1,22 @@
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell,
+    Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+}
+
+.embla {
+  overflow: hidden;
+  flex: 0 0 95%;
+}
+
+.embla__container {
+  display: flex;
+  height: 100vh;
+}
+
+.embla__slide {
+  flex: 0 0 100%;
+  overflow-y: auto;
+}
