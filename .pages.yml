@@ -1,7 +1,7 @@
 media: public
 content:
   - name: funny
-    label: funny
+    label: Funny
     type: collection
     path: content/funny
     fields:
@@ -10,3 +10,20 @@ content:
       - { name: body, label: Body, type: text }
       - { name: img1, label: Image, type: image }
       - { name: img2, label: Image, type: image }
+  - name: news
+    label: News
+    type: collection
+    path: content/news
+    fields:
+      - { name: title, label: title, type: string }
+      - { name: date, label: Publish Date, type: date }
+      - { name: news1, label: Body, type: text }
+      - { name: img1, label: Image, type: image }
+      - { name: img2, label: Image, type: image }
+      - { name: news2, label: Body, type: text }
+      - { name: news3, label: Body, type: text }
+      - { name: img3, label: Image, type: image }
+      - { name: img4, label: Image, type: image }
+      - { name: news4, label: Body, type: text }
+      - { name: news5, label: Body, type: text }
+      - { name: img5, label: Image, type: image }
