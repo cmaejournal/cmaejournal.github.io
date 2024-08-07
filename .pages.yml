@@ -1,6 +1,4 @@
-media:
-  input: public
-  output: static
+media: public
 content:
   - name: funny
     label: Funny
