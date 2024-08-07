@@ -5,26 +5,12 @@ class MyDocument extends Document {
     return (
       <Html>
         <Head>
-          <link rel="icon" href="./cover.jpeg" sizes="any" />
+          <link rel="icon" href="/static/cover.jpeg" sizes="any" />
           <title>CMAE Journal</title>
-          {/* Netlify Widget */}
-          <script async src="https://identity.netlify.com/v1/netlify-identity-widget.js" />
         </Head>
         <body>
           <Main />
           <NextScript />
-          <script dangerouslySetInnerHTML={{
-            __html: `
-              if (window.netlifyIdentity) {
-                window.netlifyIdentity.on("init", user => {
-                  if (!user) {
-                    window.netlifyIdentity.on("login", () => {
-                      document.location.href = "/admin/";
-                    });
-                  }
-                });
-              }
-          `}}/>
         </body>
       </Html>
     )

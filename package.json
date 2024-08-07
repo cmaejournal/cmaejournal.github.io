@@ -7,7 +7,6 @@
     "build": "next build"
   },
   "dependencies": {
-    "cypress": "^13.13.2",
     "embla-carousel-react": "^8.1.8",
     "gray-matter": "^4.0.3",
     "next": "^14.2.5",
