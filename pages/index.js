@@ -38,7 +38,7 @@ export default function Home({ posts, funny, news }) {
                 <Image
                   src="/static/cover.jpeg"
                   fill={true}
-                  alt="La Gazette Patata"
+                  alt="CMAE Journal"
                 />
             </div>
           </div>

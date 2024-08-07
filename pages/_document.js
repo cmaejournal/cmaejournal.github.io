@@ -6,7 +6,7 @@ class MyDocument extends Document {
       <Html>
         <Head>
           <link rel="icon" href="./cover.jpeg" sizes="any" />
-          <title>La Gazette Patata</title>
+          <title>CMAE Journal</title>
           {/* Netlify Widget */}
           <script async src="https://identity.netlify.com/v1/netlify-identity-widget.js" />
         </Head>
