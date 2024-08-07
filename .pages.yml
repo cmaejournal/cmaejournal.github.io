@@ -10,7 +10,7 @@ content:
       fields: [ title, date ]
     fields:
       - { name: title, label: Title, type: string }
-      - { name: date, label: Publish Date, type: date, options: { time: true, format: DD-MM-YYYY HH:mm } }
+      - { name: date, label: Publish Date, type: date, options: { time: true, format: dd-MM-yyyy HH:mm } }
       - { name: body, label: Body, type: text }
       - { name: img1, label: Image, type: image }
       - { name: img2, label: Image, type: image }
@@ -22,7 +22,7 @@ content:
       fields: [ title, date ]
     fields:
       - { name: title, label: Title, type: string }
-      - { name: date, label: Publish Date, type: date, options: { time: true, format: DD-MM-YYYY HH:mm } }
+      - { name: date, label: Publish Date, type: date, options: { time: true, format: dd-MM-yyyy HH:mm } }
       - { name: news1, label: Body, type: text }
       - { name: img1, label: Image, type: image }
       - { name: img2, label: Image, type: image }
