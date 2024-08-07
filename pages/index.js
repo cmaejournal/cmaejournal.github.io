@@ -36,7 +36,7 @@ export default function Home({ posts, funny, news }) {
             <div className="container">
               <main>
                 <Image
-                  src="/cover.jpeg"
+                  src="/static/cover.jpeg"
                   layout="fill"
                   // objectFit="cover"
                   objectPosition="center"
