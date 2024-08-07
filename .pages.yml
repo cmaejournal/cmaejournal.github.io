@@ -7,7 +7,7 @@ content:
     view: 
       fields: [ title, date ]
     fields:
-      - { name: title, label: title, type: string }
+      - { name: title, label: Title, type: string }
       - { name: date, label: Publish Date, type: date, options: { time: true, format: DD-MM-YYYY HH:mm } }
       - { name: body, label: Body, type: text }
       - { name: img1, label: Image, type: image }
@@ -19,7 +19,7 @@ content:
     view: 
       fields: [ title, date ]
     fields:
-      - { name: title, label: title, type: string }
+      - { name: title, label: Title, type: string }
       - { name: date, label: Publish Date, type: date, options: { time: true, format: DD-MM-YYYY HH:mm } }
       - { name: news1, label: Body, type: text }
       - { name: img1, label: Image, type: image }
