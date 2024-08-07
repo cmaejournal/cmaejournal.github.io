@@ -6,6 +6,7 @@ import Post from '@components/Post'
 import News from '@components/News'
 import Funny from '@components/Funny'
 import { getPostsData } from '../lib/posts';
+import styles from './index.module.css'
 
 export async function getStaticProps() {
   const postsDirectory = path.join(process.cwd(), 'content/posts');
@@ -33,16 +34,12 @@ export default function Home({ posts, funny, news }) {
       <div className="embla__viewport" ref={emblaRef}>
         <div className="embla__container">
           <div className="embla__slide">
-            <div className="container">
-              <main>
+            <div className={styles.container}>
                 <Image
                   src="/static/cover.jpeg"
-                  layout="fill"
-                  // objectFit="cover"
-                  objectPosition="center"
+                  fill={true}
                   alt="La Gazette Patata"
                 />
-              </main>
             </div>
           </div>
           {/* {posts.map(post => (
