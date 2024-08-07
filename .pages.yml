@@ -3,7 +3,7 @@ media:
   output: /static
 content:
   - name: funny
-    label: Funny (test)
+    label: Funny
     type: collection
     path: content/funny
     view: 
