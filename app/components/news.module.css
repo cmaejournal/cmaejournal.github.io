@@ -1,0 +1,14 @@
+.entry {
+  display: flex;
+  align-items: center;
+}
+
+.newsBody {
+  flex: 3;
+}
+
+.newsImg {
+  flex: 1;
+  height: 200px;
+  position: relative;
+}

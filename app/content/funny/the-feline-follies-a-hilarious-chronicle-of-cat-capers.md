@@ -1,8 +1,8 @@
 ---
 title: "The Feline Follies: A Hilarious Chronicle of Cat Capers!"
 date: 07-08-2024 12:28
-img1: https://i.ytimg.com/vi/JxS5E-kZc2s/maxresdefault.jpg
-img2: https://s.yimg.com/ny/api/res/1.2/FRW8JzlzhjtJIVsIKc5xdw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEwMDA7aD03NTA-/https://media.zenfs.com/en_US/News/BGR_News/funny-cat.jpg
+img1: /static/cats/tuxedo.jpeg
+img2: /static/cats/tuxedo2.jpeg
 ---
 Hey there, fellow cat aficionados and furry friend enthusiasts! Today, we're diving headfirst into the wonderful world of our feline companions, those adorable bundles of fur who never fail to keep our lives interesting, even when they're busy napping for 16 hours a day. That's right, buckle up, because we're about to embark on a whirlwind tour of some hilarious cat capers that will leave you chuckling and nodding in agreement.
 
