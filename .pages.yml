@@ -5,7 +5,7 @@ content:
   - name: funny
     label: Funny
     type: collection
-    path: content/funny
+    path: app/content/funny
     view: 
       fields: [ title, date ]
     fields:
@@ -17,7 +17,7 @@ content:
   - name: news
     label: News
     type: collection
-    path: content/news
+    path: app/content/news
     view: 
       fields: [ title, date ]
     fields:
