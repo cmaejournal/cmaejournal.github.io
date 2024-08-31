@@ -1,9 +1,12 @@
 ---
 title: "45"
-date: 07-08-2024 11:28
+date: 07-08-2024 10:28
 news1: >-
   Filme 🎬 
-   Vice-versa 2 
+
+
+  Vice-versa 2 
+
 
   Vice-versa est un film de Disney, qui est sortie en 2015, l'histoire du
   premier filme est la suivante : 
@@ -98,7 +101,9 @@ news2: >-
   Bonne appétit 😋
 news3: >-
   Crime 🧑‍✈ 
-   Madeleine MacCann 
+   
+  Madeleine MacCann 
+
 
   Madeleine Beth McCann (née le 12 mai de 2003) est une fille britannique qui a
   disparu au Portugal, à "Algarade" pendant quelle était en vacance avec sa
@@ -115,7 +120,9 @@ news3: >-
   parents sont sûres qu'elle a été kidnappé.
 news4: >-
   Événements 🥳 
+
    La rentrée des classes 
+
   Que tu sois encore à l’école primaire, au collège, au lycée ou encore à
   l’université, je vous donne des conseils pour passer une belle rentrée et une
   magnifique année scolaire. En répondant à 3 questions avec mes conseils.
@@ -145,7 +152,9 @@ news4: >-
   J’espère que cela a pu t’aider pour cette rentrée et cette année !
 news5: >-
   Film 🎞 
+
    Le Comte de Monte-Cristo 
+
   Le Comte de Monte-Cristo est à la base un livre sortie en 1944, mais juillet
   2024 le film est sortie au cinéma.
    L’histoire : 
