@@ -1,8 +1,8 @@
 ---
 title: Comment aider?
-date: 31-08-2024 23:00
-img1: /static/cats/tuxedo.jpeg
-img2: /static/cats/tuxedo2.jpeg
+date: 31-08-2024 22:00
+img1: /static/Fotos-Artigos/Imagem WhatsApp 2024-08-31 às 23.43.25_7694b096.jpg
+img2: /static/Fotos-Artigos/Imagem WhatsApp 2024-08-31 às 23.45.40_dddbe319.jpg
 ---
 Comme vous le savais, Univers Jo  est une petite association, mais qui aide beaucoup de gens!
 
