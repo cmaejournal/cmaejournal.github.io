@@ -1,6 +1,6 @@
 ---
 title: D
-date: 31-08-2024 21:00
+date: 31-08-2024 20:00
 news1: >-
   Monde 🌎 
 
@@ -31,6 +31,8 @@ news1: >-
    Activité insolite:
   Vous pouvez personnaliser votre coque de téléphone (à partir de 28 €) ou bien
   faire des bougies parfumée (à partir de 26 €) à Siyisama.
+img1: /static/Fotos-Artigos/TORRE.jpg
+img2: /static/Fotos-Artigos/Imagem WhatsApp 2024-08-31 às 14.43.05_d5b37d92.jpg
 news2: >-
   Littérature📚 
 
@@ -61,6 +63,8 @@ news3: >-
   riche en rythme et en émotions,très sympa à écouter en cette fin d'été pour
   vous redonner la pêche.album disponible à l'achat à 13,99€ Soprano sera  en
   tournée à partir de mars 2025
+img3: /static/Fotos-Artigos/Imagem WhatsApp 2024-08-31 às 14.43.05_2120caa9.jpg
+img4: /static/Fotos-Artigos/Imagem WhatsApp 2024-08-31 às 14.43.06_ad245e5b.jpg
 news4: >-
   Beauté 🧖 
 
@@ -100,4 +104,5 @@ news5: >-
 
 
   Voilà une recette super facile et super bonne !
+img5: /static/Fotos-Artigos/Imagem WhatsApp 2024-08-31 às 16.59.09_42c87cdf.jpg
 ---
