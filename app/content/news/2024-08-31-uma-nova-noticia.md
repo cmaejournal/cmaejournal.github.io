@@ -1,5 +1,5 @@
 ---
-title: Notícias 1 a 4
+title: Notícias 1 a 5
 date: 31-08-2024 12:14
 news1: >-
   Monde 🌍
@@ -54,4 +54,136 @@ news1: >-
   Neptune est la dernière planète, et aussi la plus froide, elle 49 244 km elle
   est aussi gazeuse.
 img1: /static/cover.jpeg
+news2: >-
+  Évenements🥳
+
+  L'Eurogym
+
+
+  Tous les deux ans, , il y a  l'Eurogym qui est la plus grande rencontre
+  européenne de gymnastique pour tous (GPT). La GPT est un type de gym qui
+  mélange toutes les autres (gymnastique rythmique, acrobatique, artistique,
+  aérobique...) et qui se fait à plusieurs.
+
+  Cet année, l'eurogym s'est déroulé du 14 au 19 juillet à "Bodø", qui est une
+  ville au Nord de la Norvège, dans le cercle polaire arctique. Plus de 18 pays
+  ont participé dont la France, le Portugal et l’Italie
+
+
+  Le premier jour de l'eurogym il y a eu un défilé dans les rues, chaque équipe
+  a representé son pays, et ensuite il y a eu une super cerémonie d'ouverture,
+  suivie d'un gala. Chaque jour, quand une équipe n’avait pas de présentation,
+  elle partait faire des "worckshops" comme par ex: escalade, trampoline, volley
+  ball, hiking...
+
+
+  Tous les soirs, il y avait aussi des fêtes! Comme, la fête de la Norvége, la
+  fête « néon »( tout le monde était habillé en fluorescent), le "minight sun
+  adventure" ( comme "Bodø est vraiment au Nord, il n'y avait pas de nuit, on
+  est resté sur la plage jusqu'á minuit en regardant le soleil). Il y a eu aussi
+  la « nuit internationale »( une nuit oú chacun est en costume de son pays et
+  où on s’échange des objets typiques de chaque pays.
+
+
+  Et pour finir cet événement sportif,  il y a eu encore un super gala mais
+  cette fois ci , il y avait une équipe de chaque pays qui faisait une
+  exhibition. Puis, il y a eu une cérémonie de clôture avec la découverte du
+  lieu où se déroulera le prochain Eurogym! Et ce sera  "Pistoia" en Italie.
+news3: >-
+  Animal 🐱
+
+  Le chat
+
+  Le chat est un super animal, bien qu'il soit super commun, le chat est très
+  surprenant. Comme vous le savais, le chat est un félin à quatre pattes, il vit
+  environ de 12 à 18 ans. 
+
+
+  Ces petits animaux peuvent avoir plein de couleurs et chaque pelage à un
+  signifie quelque chose.
+
+  Noir : timides calmes et affectueux
+
+  Blanc : ne confie pas en tout le monde, mais très tranquilles.
+
+  Orange : adore jouer et adore sa famille.
+
+  Bicolore : s'adapte bien a tout et adore dormir
+
+  Tricolore : très confiant et affectueux.
+
+
+  Maintenant, je vais vous raconter 7 curiosités sur les chats :
+
+
+  • En Egypte, les chats étés considérés comme des dieux, et quand une famille
+  perdait son chaton, elle devait se raser les sourcils.
+
+
+  • Les chats sont la cause de l'extinction de plein d'insectes.
+
+
+  • Le nez des chats, c'est comme si c'était leur empreinte digitale !
+
+
+  • Les chats sont de super amis, si tu as un chat, tu as beaucoup plus de
+  chance de ne pas avoir de la déprécions, anxiété...
+
+
+  • Les chats prennent environ 15 % de leur journée à se léchée.
+
+
+  • S'ils le veulent, ils peuvent sauter jusqu'à 5 fois leur taille, ce qui est
+  environ 150 cm.
+
+
+  • La plupart des chats blancs aux yeux bleus sont sourds.
+news4: >-
+  Activité manuelle 🖍
+
+  Origami
+
+
+  L'Origami est l'art du pliage de papier. Bien qu'il soit dur de déterminer son
+  origine exacte, le Japon est identifié comme le pays qui a le plus développé
+  cet art ou/et sa pratique.
+
+
+  L'origami s'appelle comme ça a, car il vient du verbe japonais "oru" qui veut
+  dire plier, et du nom "kami" qui veut dire papier.
+
+
+  L'objectif de l'origami, c'est de transformer une feuille simple, blanche ou
+  colorée, plate et carré en une incroyable sculpture !
+
+
+  L'origami peut prendre des formes super simples comme un cœur ou un avion en
+  papier, mais il peut prendre aussi des figures plus complexes comme la Tour
+  Eiffel.
+
+
+  C'est aussi une super manière de se détendre.
+news5: >-
+  Émission 📺
+
+  Got talent
+
+
+
+  Got talent est un des meilleurs programmes pour montrer ton talent, tu peux
+  danser, faire de la gym, chanter, faire du théâtre, faire de la magie ou même
+  jouer de la flûte avec son nez ! Tout est possible !
+
+
+  Le but d'America's got talent est de donner la chance à n’importe qui de
+  remporter la très grande somme de 1 million de dollars.
+
+
+  La première transmission a été en juin 2006.Le programme a été créé par Simon
+  Cowell. Qui est un producteur Britannique né le 7 octobre 1959 (64 ans).
+
+
+  Got talent a vraiment été une bombe ! Plein de pays, l’on aussi fait avec des
+  variantes, comme par exemple : la France  (la France a un incroyable talent.)
+  le Portugal (got talent Portugal) la Grande-Bretagne   (Britain got talent)...
 ---
