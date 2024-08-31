@@ -1,9 +1,11 @@
 ---
 title: MADA
-date: 13-08-2024 19:54
+date: 13-08-2024 18:54
 news1: >-
   Événements 🥳 
+
    L’automne 🍂 
+
   C’est une saison souvent mal-aimée, car associée au rythme de la rentrée, à la
   météo capricieuse et au spleen qui l’accompagne. Mais pourtant en automne il y
   a plein de trucs chouettes à faire en voici quelques exemples :
@@ -39,7 +41,9 @@ news1: >-
   Et surtout profiter de cette magnifique saison !!!
 news2: >-
   Société 👥 
+
    La pauvreté 
+
    Définition : 
   La pauvreté, c'est ne pas avoir assez d'argent pour répondre aux besoins
   vitaux (nourriture, logement, vêtements).
@@ -60,6 +64,7 @@ news2: >-
 news3: SUDOKU
 news4: >-
   Sport🤸‍♀ 
+
    La gymnastique rythmique 
 
   La gymnastique rythmique (GR) est une catégorie de sport, comme comme la
@@ -85,6 +90,7 @@ news4: >-
   Il y a  aussi les enchaînement sans engin qui sont appelés : "mains libres".
 news5: >-
   Art 🎨
+
 
   Van Gogh
 
