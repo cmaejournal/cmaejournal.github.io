@@ -2,9 +2,9 @@
 title: Articles 1 à 5
 date: 31-08-2024 23:00
 news1: >-
-  Événements 🥳 
+  Événements  🥳 
 
-   L’automne 🍂 
+   L’automne  🍂 
 
   C’est une saison souvent mal-aimée, car associée au rythme de la rentrée, à la
   météo capricieuse et au spleen qui l’accompagne. Mais pourtant en automne il y
