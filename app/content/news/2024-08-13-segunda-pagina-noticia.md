@@ -1,6 +1,6 @@
 ---
 title: MADA
-date: 13-08-2024 20:54
+date: 13-08-2024 19:54
 news1: >-
   Événements 🥳 
    L’automne 🍂 
@@ -37,8 +37,6 @@ news1: >-
    4) Et surtout n’oubliez pas```
    la fête la plus importante celons moi : halloween.(il y aura bien sur un article le mois prochain 😉).
   Et surtout profiter de cette magnifique saison !!!
-img1: /static/cats/tuxedo.jpeg
-img2: /static/cats/tuxedo5.jpeg
 news2: >-
   Société 👥 
    La pauvreté 
