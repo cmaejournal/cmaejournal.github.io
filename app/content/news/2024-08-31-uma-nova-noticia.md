@@ -1,8 +1,9 @@
 ---
 title: Notícias 1 a 5
-date: 31-08-2024 11:14
+date: 31-08-2024 10:14
 news1: >-
   Monde 🌍
+
 
   Le système solaire
 
@@ -57,6 +58,7 @@ img1: /static/cover.jpeg
 news2: >-
   Évenements🥳
 
+
   L'Eurogym
 
 
@@ -92,7 +94,9 @@ news2: >-
 news3: >-
   Animal 🐱
 
+
   Le chat
+
 
   Le chat est un super animal, bien qu'il soit super commun, le chat est très
   surprenant. Comme vous le savais, le chat est un félin à quatre pattes, il vit
@@ -141,6 +145,7 @@ news3: >-
 news4: >-
   Activité manuelle 🖍
 
+
   Origami
 
 
@@ -165,6 +170,7 @@ news4: >-
   C'est aussi une super manière de se détendre.
 news5: >-
   Émission 📺
+
 
   Got talent
 
