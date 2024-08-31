@@ -1,9 +1,11 @@
 ---
 title: D
-date: 31-08-2024 22:00
+date: 31-08-2024 21:00
 news1: >-
   Monde 🌎 
+
    Paris🗼 
+
    Histoire :
   L'histoire de Paris remonte autour de l'an 259 avant J.-C., lorsque la petite
   tribu des Parisii fonda la ville sur la rive droite de la Seine. Ce premier
@@ -31,7 +33,9 @@ news1: >-
   faire des bougies parfumée (à partir de 26 €) à Siyisama.
 news2: >-
   Littérature📚 
+
    Jean de la Fontaine 
+
   Jean de la Fontaine baptisé le 8 juillet 1621 à Château Thierry et mort le 13
   avril 1695 à Paris est l'un des principaux représentants du classicisme
   français. Il a écrit plus de 240 fables comme par exemple "Le Corbeau et Le
@@ -41,7 +45,9 @@ news2: >-
   écrit ses contes qui feront sa renommée.
 news3: >-
   Musique 🎼 
+
    Soprano 
+
   Soprano est un rappeur, chanteur compositeur né à Marseille.Il commence sa
   carrière en 1995 dans le groupe Psy 4 de la rime, qui était à l'époque composé
   d'Allonzo,de Vincenzo,de Sya Styles et bien sûr de Soprano.En 2015 Sya Styles
@@ -57,7 +63,9 @@ news3: >-
   tournée à partir de mars 2025
 news4: >-
   Beauté 🧖 
+
    Rare Beauty 
+
   Rare Beauty est une société américaine de maquillage et cosmétique fondée et
   détenue par Séléna Gomez. C'est une marque qui a fait succès en très peu de
   temps en même pas quatre ans elle est devenue l'une des marques les plus
@@ -69,7 +77,9 @@ news4: >-
   toute nouvelle gamme plus basée sur le soin et l'hygiène.
 news5: >-
   Recettes 🧑‍🍳 
+
    Milk-shake 
+
 
   Si tu ne sais pas cuisiner, mais tu as soif, j'ai une super recette très
   facile qui se fait en moins de 10 minutes !
