@@ -28,6 +28,8 @@ news1: >-
 
    Mada: j 'ai vraiment aimé le filme, je l'ai vraiment trouvé très bien parce qu'il a bien représenté la puberté de Riley...
    Cécé: Je suis totalement d'accord. Le film est très bien et super léger, je l'ai préféré au premier. Je vous le conseille vraiment si vous avez envie de rire, de pleurer et de comprendre plein de choses.
+img1: /static/Fotos-Artigos/Imagem WhatsApp 2024-08-31 às 17.13.09_12b81c5f.jpg
+img2: /static/Fotos-Artigos/Imagem WhatsApp 2024-08-31 às 14.43.06_8e8c9f5b.jpg
 news2: >-
   Recette 👩🏼‍🍳 
 
@@ -118,6 +120,8 @@ news3: >-
 
   La police a dit quelle était partie toute seule à pied dans la nuit, mais ses
   parents sont sûres qu'elle a été kidnappé.
+img3: /static/Fotos-Artigos/Imagem WhatsApp 2024-08-31 às 17.14.53_a90db9e4.jpg
+img4: /static/Fotos-Artigos/Imagem WhatsApp 2024-08-31 às 14.43.06_03da6e77.jpg
 news4: >-
   Événements 🥳 
 
@@ -174,4 +178,5 @@ news5: >-
   scène sont très réussis. 
 
   Je vous le recommande sans hésitation!
+img5: /static/Fotos-Artigos/Imagem WhatsApp 2024-08-31 às 14.43.06_20d77707.jpg
 ---
