@@ -1,6 +1,6 @@
 ---
 title: MADA
-date: 13-08-2024 18:54
+date: 13-08-2024 17:54
 news1: >-
   Événements 🥳 
 
@@ -39,6 +39,8 @@ news1: >-
    4) Et surtout n’oubliez pas```
    la fête la plus importante celons moi : halloween.(il y aura bien sur un article le mois prochain 😉).
   Et surtout profiter de cette magnifique saison !!!
+img1: /static/Fotos-Artigos/Imagem WhatsApp 2024-08-31 às 14.43.06_e63df674.jpg
+img2: /static/Fotos-Artigos/Imagem WhatsApp 2024-08-31 às 14.43.06_da4b941e.jpg
 news2: >-
   Société 👥 
 
@@ -62,6 +64,8 @@ news2: >-
   Et n'oubliez jamais que tout seul on va plus vite et ensemble on va plus
   loin...
 news3: SUDOKU
+img3: /static/Fotos-Artigos/Imagem WhatsApp 2024-08-31 às 14.43.06_dffbc01c.jpg
+img4: /static/Fotos-Artigos/Imagem WhatsApp 2024-08-31 às 14.43.05_1642e191.jpg
 news4: >-
   Sport🤸‍♀ 
 
@@ -110,4 +114,5 @@ news5: >-
 
   Il a peint beaucoup de tableaux dont les plus connues sont ,les tournesols, la
   nuit étoilée et ses autoportraits.
+img5: /static/Fotos-Artigos/Imagem WhatsApp 2024-08-31 às 16.57.52_f223fa0b.jpg
 ---
