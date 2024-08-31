@@ -1,6 +1,6 @@
 ---
 title: Notícias 1 a 5
-date: 31-08-2024 09:14
+date: 31-08-2024 08:14
 news1: >-
   Monde 🌍
 
@@ -143,6 +143,8 @@ news3: >-
 
 
   • La plupart des chats blancs aux yeux bleus sont sourds.
+img3: /static/Fotos-Artigos/Imagem WhatsApp 2024-08-31 às 14.43.05_d031dd30.jpg
+img4: /static/Fotos-Artigos/Imagem WhatsApp 2024-08-31 às 16.36.48_75960af8.jpg
 news4: >-
   Activité manuelle 🖍
 
@@ -193,4 +195,5 @@ news5: >-
   Got talent a vraiment été une bombe ! Plein de pays, l’on aussi fait avec des
   variantes, comme par exemple : la France  (la France a un incroyable talent.)
   le Portugal (got talent Portugal) la Grande-Bretagne   (Britain got talent)...
+img5: /static/Fotos-Artigos/Imagem WhatsApp 2024-08-31 às 14.43.05_992c7b31.jpg
 ---
