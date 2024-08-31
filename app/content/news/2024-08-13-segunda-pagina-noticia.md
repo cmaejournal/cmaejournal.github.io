@@ -6,10 +6,9 @@ news1: >-
 
    L’automne🍂 
 
-  kjshfr wak C’est une saison souvent mal-aimée, car associée au rythme de la
-  rentrée, à la météo capricieuse et au spleen qui l’accompagne. Mais pourtant
-  en automne il y a plein de trucs chouettes à faire en voici quelques exemples
-  :
+  C’est une saison souvent mal-aimée, car associée au rythme de la rentrée, à la
+  météo capricieuse et au spleen qui l’accompagne. Mais pourtant en automne il y
+  a plein de trucs chouettes à faire en voici quelques exemples :
    1) Mabon 
   Mabon est une fête la plupart du temps qui se célèbre dans la culture païenne.
   On fête l’arrivée de l’automne. Voici 6 rituels souvent fait ce jour :
