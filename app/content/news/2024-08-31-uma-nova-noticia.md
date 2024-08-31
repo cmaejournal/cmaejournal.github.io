@@ -1,6 +1,6 @@
 ---
 title: Notícias 1 a 5
-date: 31-08-2024 10:14
+date: 31-08-2024 09:14
 news1: >-
   Monde 🌍
 
@@ -54,7 +54,8 @@ news1: >-
 
   Neptune est la dernière planète, et aussi la plus froide, elle 49 244 km elle
   est aussi gazeuse.
-img1: /static/cover.jpeg
+img1: /static/Fotos-Artigos/Imagem WhatsApp 2024-08-31 às 14.43.04_4286e9c3.jpg
+img2: /static/Fotos-Artigos/Imagem WhatsApp 2024-08-31 às 14.43.05_8b1d2a08.jpg
 news2: >-
   Évenements🥳
 
