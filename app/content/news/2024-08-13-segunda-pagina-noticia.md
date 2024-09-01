@@ -64,7 +64,7 @@ news2: >-
   Et n'oubliez jamais que tout seul on va plus vite et ensemble on va plus
   loin...
 news3: SUDOKU
-img3: /static/Fotos-Artigos/Imagem WhatsApp 2024-08-31 às 14.43.06_dffbc01c.jpg
+img3: /static/Fotos-Artigos/Imagem WhatsApp 2024-08-31 sudoku.jpg
 img4: /static/Fotos-Artigos/Imagem WhatsApp 2024-08-31 às 14.43.05_1642e191.jpg
 news4: >-
   Sport🤸‍♀ 
