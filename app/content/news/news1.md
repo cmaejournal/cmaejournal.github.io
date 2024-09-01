@@ -1,6 +1,6 @@
 ---
 title: Articles 16 à 20
-date: 01-09-2024 00:00
+date: 31-08-2024 23:00
 news1: >-
   Filme 🎬 
 
@@ -29,7 +29,7 @@ news1: >-
    Mada: j 'ai vraiment aimé le filme, je l'ai vraiment trouvé très bien parce qu'il a bien représenté la puberté de Riley...
    Cécé: Je suis totalement d'accord. Le film est très bien et super léger, je l'ai préféré au premier. Je vous le conseille vraiment si vous avez envie de rire, de pleurer et de comprendre plein de choses.
 img1: /static/Fotos-Artigos/Imagem WhatsApp 2024-08-31 às 17.13.09_12b81c5f.jpg
-img2: /static/Fotos-Artigos/Imagem WhatsApp 2024-09-01 às 20.20.55_d9eead3d.jpg
+img2: /static/Fotos-Artigos/Imagem WhatsApp 2024-09-01 às 21.46.36_d7866f7d.jpg
 news2: >-
   Recette 👩🏼‍🍳 
 
