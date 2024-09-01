@@ -40,7 +40,7 @@ news1: >-
    la fête la plus importante celons moi : halloween.(il y aura bien sur un article le mois prochain 😉).
   Et surtout profiter de cette magnifique saison !!!
 img1: /static/Fotos-Artigos/Imagem WhatsApp 2024-08-31 às 14.43.06_e63df674.jpg
-img2: /static/Fotos-Artigos/Imagem WhatsApp 2024-08-31 às 14.43.06_da4b941e.jpg
+img2: /static/Fotos-Artigos/Imagem WhatsApp 2024-09-01 às 20.18.03_97531b12.jpg
 news2: >-
   Société 👥 
 
