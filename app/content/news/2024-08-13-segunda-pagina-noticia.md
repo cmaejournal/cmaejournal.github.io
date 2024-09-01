@@ -6,8 +6,6 @@ news1: >-
 
    L’automne🍂 
 
-  [(teste)]
-
   C’est une saison souvent mal-aimée, car associée au rythme de la rentrée, à la
   météo capricieuse et au spleen qui l’accompagne. Mais pourtant en automne il y
   a plein de trucs chouettes à faire en voici quelques exemples :
