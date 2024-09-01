@@ -1,6 +1,6 @@
 ---
 title: Articles 16 à 20
-date: 01-09-2024 00:00
+date: 31-08-2024 23:00
 news1: >-
   Filme 🎬 
 
@@ -108,7 +108,7 @@ news3: >-
 
 
   Madeleine Beth McCann (née le 12 mai de 2003) est une fille britannique qui a
-  disparu au Portugal, à "Algarade" pendant quelle était en vacance avec sa
+  disparu au Portugal, à "Algarve" pendant quelle était en vacance avec sa
   famille.
 
 
