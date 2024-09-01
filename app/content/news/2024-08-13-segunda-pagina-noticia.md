@@ -1,6 +1,6 @@
 ---
 title: Articles 1 à 5
-date: 01-09-2024 00:00
+date: 31-08-2024 23:00
 news1: >-
   Événements🥳 
 
@@ -9,7 +9,9 @@ news1: >-
   C’est une saison souvent mal-aimée, car associée au rythme de la rentrée, à la
   météo capricieuse et au spleen qui l’accompagne. Mais pourtant en automne il y
   a plein de trucs chouettes à faire en voici quelques exemples :
-   1) Mabon 
+
+  1) Mabon 
+
   Mabon est une fête la plupart du temps qui se célèbre dans la culture païenne.
   On fête l’arrivée de l’automne. Voici 6 rituels souvent fait ce jour :
 
