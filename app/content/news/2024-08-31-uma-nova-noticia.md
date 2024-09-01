@@ -1,6 +1,6 @@
 ---
 title: Articles 11 à 15
-date: 01-09-2024 00:00
+date: 31-08-2024 23:00
 news1: >-
   Monde 🌍
 
@@ -195,5 +195,5 @@ news5: >-
   Got talent a vraiment été une bombe ! Plein de pays, l’on aussi fait avec des
   variantes, comme par exemple : la France  (la France a un incroyable talent.)
   le Portugal (got talent Portugal) la Grande-Bretagne   (Britain got talent)...
-img5: /static/Fotos-Artigos/Imagem WhatsApp 2024-09-01 às 20.15.06_61a3e2ac.jpg
+img5: /static/Fotos-Artigos/Imagem WhatsApp 2024-09-01 às 21.44.32_d9d874dc.jpg
 ---
