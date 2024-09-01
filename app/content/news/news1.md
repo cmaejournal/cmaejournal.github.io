@@ -120,7 +120,7 @@ news3: >-
 
   La police a dit quelle était partie toute seule à pied dans la nuit, mais ses
   parents sont sûres qu'elle a été kidnappé.
-img3: /static/Fotos-Artigos/Imagem WhatsApp 2024-09-01 às 20.18.46_7a504b6a.jpg
+img3: /static/Fotos-Artigos/Imagem WhatsApp 2024-09-01 às 22.06.51_e76c0a65.jpg
 img4: /static/Fotos-Artigos/Imagem WhatsApp 2024-09-01 às 20.20.26_36e815ea.jpg
 news4: >-
   Événements 🥳 
