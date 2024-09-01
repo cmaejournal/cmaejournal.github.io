@@ -1,6 +1,6 @@
 ---
 title: ASSOCIATION DU MOIS
-date: 31-08-2024 23:00
+date: 01-09-2024 00:00
 img1: /static/Fotos-Artigos/Imagem WhatsApp 2024-08-31 às 23.18.50_5dc70689.jpg
 img2: /static/Fotos-Artigos/Imagem WhatsApp 2024-08-31 às 23.47.35_7b479289.jpg
 ---
