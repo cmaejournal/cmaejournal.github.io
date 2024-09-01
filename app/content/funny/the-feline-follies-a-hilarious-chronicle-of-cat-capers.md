@@ -1,6 +1,6 @@
 ---
 title: Comment aider?
-date: 31-08-2024 22:00
+date: 01-09-2024 00:00
 img1: /static/Fotos-Artigos/Imagem WhatsApp 2024-09-01 às 22.11.32_b55e5e9f.jpg
 img2: /static/Fotos-Artigos/Imagem WhatsApp 2024-09-01 às 21.41.04_d8bd3ecd.jpg
 ---
